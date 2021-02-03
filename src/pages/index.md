@@ -69,7 +69,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-      - input_type: checkbox
+      - input_type: text
         name: lorem-ipsum
         label: Allergies
         default_value: lorem-ipsum
