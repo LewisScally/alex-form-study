@@ -123,7 +123,7 @@ sections:
     form_fields:
       - input_type: text
         name: lorem-ipsum
-        label: lorem-ipsum
+        label: First Name
         default_value: lorem-ipsum
         options: []
         is_required: false
