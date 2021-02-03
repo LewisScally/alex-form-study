@@ -105,17 +105,28 @@ sections:
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Mycological Supplemental Treatment Form
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Ongoing Questions throughout study to be recorded via the patient logging
+      into the program portal.
 
 
-      - Lorem ipsum
+      TODO
 
-      - dolor sit amet
+
+      *   Create Registration and Login, database of signup emails, sent
+      registration login with pass reset. Netlify auth\*
+
+      *   I suggest taking email in the below form also, we can then send them
+      account signup.
+
+      *   Dashboard whereby they can answer the other questions. 
+
+      *   Alternative, would be to create another form page whereby they can
+      record through a form. Would require no dashboard or login/reg, but would
+      it be better, or worse?
     background: gray
     form_id: lorem-ipsum
     form_action: lorem-ipsum
