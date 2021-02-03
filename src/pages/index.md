@@ -122,11 +122,14 @@ sections:
       *   I suggest taking email in the below form also, we can then send them
       account signup.
 
-      *   Dashboard whereby they can answer the other questions. 
+      *   Dashboard whereby they can answer the other questions.
 
       *   Alternative, would be to create another form page whereby they can
       record through a form. Would require no dashboard or login/reg, but would
       it be better, or worse?
+
+      *   We would still require the partner/research data, could spreadsheets
+      and aws graph do this better? Must check. 
     background: gray
     form_id: lorem-ipsum
     form_action: lorem-ipsum
