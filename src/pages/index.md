@@ -118,7 +118,7 @@ sections:
         label: Select/Tickbox
         default_value: lorem-ipsum
         options:
-          - Innflamation
+          - Inflammation
         is_required: false
         type: form_field
       - input_type: text
