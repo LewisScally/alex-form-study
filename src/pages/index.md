@@ -86,10 +86,6 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
-    title: Latest Posts
   - section_id: lorem-ipsum
     title: ''
     subtitle: ''
