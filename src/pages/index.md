@@ -137,7 +137,7 @@ sections:
     submit_label: lorem-ipsum
     type: section_contact
 seo:
-  title: Stackbit Azimuth Theme
+  title: ''
   description: The preview of the Azimuth theme
   robots:
     - index
