@@ -119,6 +119,7 @@ sections:
         default_value: lorem-ipsum
         options:
           - Inflammation
+          - lorem-ipsum
         is_required: false
         type: form_field
       - input_type: text
