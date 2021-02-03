@@ -78,7 +78,7 @@ sections:
         type: form_field
       - input_type: checkbox
         name: lorem-ipsum
-        label: I've a chronic
+        label: Do you have an allergy to fungi?
         default_value: lorem-ipsum
         options: []
         is_required: false
