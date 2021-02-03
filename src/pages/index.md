@@ -144,7 +144,7 @@ sections:
         type: form_field
       - input_type: text
         name: lorem-ipsum
-        label: lorem-ipsum
+        label: List of Current Medications
         default_value: lorem-ipsum
         options: []
         is_required: false
