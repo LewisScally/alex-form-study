@@ -119,7 +119,7 @@ sections:
         default_value: lorem-ipsum
         options:
           - Inflammation
-          - lorem-ipsum
+          - Cellulitis
         is_required: false
         type: form_field
       - input_type: text
