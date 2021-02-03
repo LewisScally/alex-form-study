@@ -132,7 +132,7 @@ sections:
         type: form_field
       - input_type: text
         name: lorem-ipsum
-        label: lorem-ipsum
+        label: 'If so, what symptoms have changed and in what way?'
         default_value: lorem-ipsum
         options: []
         is_required: false
