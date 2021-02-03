@@ -179,7 +179,9 @@ sections:
         type: form_field
       - input_type: text
         name: lorem-ipsum
-        label: lorem-ipsum
+        label: >-
+          Please provide details of your current symptoms and the frequency
+          experienced
         default_value: lorem-ipsum
         options: []
         is_required: false
