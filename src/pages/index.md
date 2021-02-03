@@ -78,7 +78,7 @@ sections:
         type: form_field
       - input_type: checkbox
         name: lorem-ipsum
-        label: Tick Box
+        label: I've a chronic
         default_value: lorem-ipsum
         options: []
         is_required: false
