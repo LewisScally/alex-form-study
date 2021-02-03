@@ -115,7 +115,7 @@ sections:
         type: form_field
       - input_type: text
         name: lorem-ipsum
-        label: Tick Box
+        label: Select/Tickbox
         default_value: lorem-ipsum
         options: []
         is_required: false
