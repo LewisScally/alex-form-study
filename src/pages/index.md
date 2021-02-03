@@ -138,7 +138,7 @@ sections:
     type: section_contact
 seo:
   title: ''
-  description: The preview of the Azimuth theme
+  description: ''
   robots:
     - index
     - follow
