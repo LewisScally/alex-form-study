@@ -104,7 +104,7 @@ sections:
     title: Latest Posts
   - section_id: lorem-ipsum
     title: ''
-    subtitle: lorem-ipsum
+    subtitle: ''
     content: >
       ## Mycological Supplemental Treatment Form
 
