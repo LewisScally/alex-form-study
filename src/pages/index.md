@@ -122,7 +122,7 @@ sections:
         type: form_field
       - input_type: select
         name: Select
-        label: Select/Tickbox
+        label: Do you suffer with any of the following
         default_value: lorem-ipsum
         options:
           - Inflammation
