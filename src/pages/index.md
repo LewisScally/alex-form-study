@@ -97,7 +97,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-      - input_type: select
+      - input_type: number
         name: Allergy
         label: Do you have an allergy to fungi?
         default_value: lorem-ipsum
