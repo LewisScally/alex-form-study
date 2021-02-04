@@ -15,8 +15,6 @@ sections:
       TODO
 
 
-
-
       *   What I mean by partner data would be if you wanted to view and graph
       the data, where would you do so?
 
@@ -25,13 +23,15 @@ sections:
 
 
       *   We would still require the partner/research data, could spreadsheets
-      and aws graph do this better? Must check.
+      and aws graph do this better? 
+
+
 
 
       <!---->
 
 
-      ##### ****
+      #####
     background: gray
     form_id: lorem-ipsum
     form_action: lorem-ipsum
