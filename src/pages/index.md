@@ -114,13 +114,6 @@ sections:
         is_required: false
         type: form_field
       - input_type: text
-        name: Have you noted any change in your symptoms since commencing the de
-        label: Have you noted any change in your symptoms since commencing
-        default_value: lorem-ipsum
-        options: []
-        is_required: false
-        type: form_field
-      - input_type: text
         name: First Line
         label: First Line of Address
         default_value: lorem-ipsum
