@@ -139,7 +139,7 @@ sections:
         type: form_field
       - input_type: text
         name: lorem-ipsum
-        label: Programme
+        label: Program
         default_value: lorem-ipsum
         options: []
         is_required: false
