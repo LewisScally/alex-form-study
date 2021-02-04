@@ -70,7 +70,7 @@ sections:
         is_required: false
         type: form_field
       - input_type: text
-        name: Gender
+        name: Med
         label: List of Current Medications
         default_value: lorem-ipsum
         options: []
