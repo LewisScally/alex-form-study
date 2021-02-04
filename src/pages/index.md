@@ -160,7 +160,7 @@ sections:
         type: form_field
       - input_type: text
         name: lorem-ipsum
-        label: lorem-ipsum
+        label: Do you suffer with
         default_value: lorem-ipsum
         options: []
         is_required: false
