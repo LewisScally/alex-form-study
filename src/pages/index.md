@@ -145,7 +145,7 @@ sections:
         is_required: false
         type: form_field
       - input_type: text
-        name: lorem-ipsum
+        name: 'If so, what symptoms have changed and in what way?'
         label: 'If so, what symptoms have changed and in what way?'
         default_value: lorem-ipsum
         options: []
