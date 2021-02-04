@@ -115,7 +115,7 @@ sections:
         type: form_field
       - input_type: text
         name: Have you noted any change in your symptoms since commencing the de
-        label: 'Have you noted any change in your symptoms since commencing '
+        label: Have you noted any change in your symptoms since commencing
         default_value: lorem-ipsum
         options: []
         is_required: false
