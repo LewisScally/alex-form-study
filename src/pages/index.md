@@ -65,7 +65,7 @@ sections:
       - input_type: text
         name: Date of Birth DD/MM/YY
         label: Date of Birth
-        default_value: lorem-ipsum
+        default_value: Date of Birth DD/MM/YY
         options: []
         is_required: false
         type: form_field
