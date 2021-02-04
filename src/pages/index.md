@@ -114,7 +114,7 @@ sections:
         is_required: false
         type: form_field
       - input_type: text
-        name: lorem-ipsum
+        name: Have you noted any change in your symptoms since commencing the de
         label: Have you noted any change in your symptoms since commencing the de
         default_value: lorem-ipsum
         options: []
