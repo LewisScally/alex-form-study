@@ -139,7 +139,7 @@ sections:
         type: form_field
       - input_type: text
         name: Program
-        label: Do you suffer with
+        label: "Do you suffer with\_Cellulitis"
         default_value: lorem-ipsum
         options: []
         is_required: false
