@@ -137,7 +137,7 @@ sections:
           - lorem-ipsum
         is_required: false
         type: form_field
-      - input_type: text
+      - input_type: checkbox
         name: Program
         label: "Do you suffer with\_Cellulitis"
         default_value: lorem-ipsum
