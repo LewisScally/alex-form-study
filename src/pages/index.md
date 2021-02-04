@@ -121,6 +121,13 @@ sections:
         is_required: false
         type: form_field
       - input_type: text
+        name: 'If so, what symptoms have changed and in what way?'
+        label: 'If so, what symptoms have changed and in what way?'
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
+      - input_type: text
         name: Select
         label: Do you suffer with any of the following
         default_value: lorem-ipsum
@@ -133,13 +140,6 @@ sections:
       - input_type: text
         name: Program
         label: Program
-        default_value: lorem-ipsum
-        options: []
-        is_required: false
-        type: form_field
-      - input_type: text
-        name: 'If so, what symptoms have changed and in what way?'
-        label: 'If so, what symptoms have changed and in what way?'
         default_value: lorem-ipsum
         options: []
         is_required: false
