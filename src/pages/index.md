@@ -129,7 +129,7 @@ sections:
         type: form_field
       - input_type: checkbox
         name: Select
-        label: Do you suffer with any of the following
+        label: Do you suffer with Inflammation
         default_value: ''
         options:
           - Inflammation
