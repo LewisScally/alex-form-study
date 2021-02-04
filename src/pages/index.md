@@ -63,7 +63,7 @@ sections:
         is_required: false
         type: form_field
       - input_type: text
-        name: Date of Birth (06/195)
+        name: Date of Birth (06/195)5
         label: Date of Birth
         default_value: lorem-ipsum
         options: []
