@@ -48,7 +48,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-      - input_type: email
+      - input_type: text
         name: Surname
         label: Surname
         default_value: lorem-ipsum
