@@ -90,6 +90,13 @@ sections:
         options: []
         is_required: false
         type: form_field
+      - input_type: text
+        name: First Line
+        label: First Line of Address
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
       - input_type: checkbox
         name: lorem-ipsum
         label: Do you have an allergy to fungi?
@@ -109,13 +116,6 @@ sections:
         label: >-
           Please provide details of your current symptoms and the frequency
           experienced
-        default_value: lorem-ipsum
-        options: []
-        is_required: false
-        type: form_field
-      - input_type: text
-        name: First Line
-        label: First Line of Address
         default_value: lorem-ipsum
         options: []
         is_required: false
