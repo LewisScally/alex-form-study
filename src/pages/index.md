@@ -120,7 +120,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-      - input_type: select
+      - input_type: checkbox
         name: Select
         label: Do you suffer with any of the following
         default_value: lorem-ipsum
