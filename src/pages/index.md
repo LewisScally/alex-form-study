@@ -102,7 +102,7 @@ sections:
         type: form_field
       - input_type: text
         name: lorem-ipsum
-        label: PostcoChronic itching
+        label: Do you suffer chronic itching?
         default_value: lorem-ipsum
         options: []
         is_required: false
