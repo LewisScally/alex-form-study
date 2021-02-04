@@ -8,24 +8,21 @@ sections:
       ## Mycological Supplemental Treatment Form
 
 
-      Ongoing Questions throughout study to be recorded via the patient logging
-      into the program portal.
+      Ongoing Questions throughout study to be recorded via additional form,
+      this form will be set to run a script and send email once per week.
 
 
       TODO
 
 
-      *   Create Registration and Login, database of signup emails, sent
-      registration login with pass reset. Netlify auth\*
 
-      *   I suggest taking email in the below form also, we can then send them
-      account signup.
 
-      *   Dashboard whereby they can answer the other questions.
+      *   What I mean by partner data would be if you wanted to view and graph
+      the data, where would you do so?
 
-      *   Alternative, would be to create another form page whereby they can
-      record through a form. Would require no dashboard or login/reg, but would
-      it be better, or worse?
+
+      <!---->
+
 
       *   We would still require the partner/research data, could spreadsheets
       and aws graph do this better? Must check.
@@ -34,8 +31,7 @@ sections:
       <!---->
 
 
-      ##### **Can sort the above at any time, if you can please review these
-      fields as not sure how some parts are meant to be**
+      ##### ****
     background: gray
     form_id: lorem-ipsum
     form_action: lorem-ipsum
