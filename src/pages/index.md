@@ -99,7 +99,7 @@ sections:
         type: form_field
       - input_type: text
         name: Allergy
-        label: Do you have an allergy to fungi?
+        label: 'Do you have an allergy to fungi, answer yes or no.'
         default_value: lorem-ipsum
         options: []
         is_required: false
