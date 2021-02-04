@@ -120,13 +120,6 @@ sections:
         options: []
         is_required: false
         type: form_field
-      - input_type: text
-        name: 'If so, what symptoms have changed and in what way?'
-        label: 'If so, what symptoms have changed and in what way?'
-        default_value: lorem-ipsum
-        options: []
-        is_required: false
-        type: form_field
       - input_type: checkbox
         name: Select
         label: Do you suffer with Inflammation
