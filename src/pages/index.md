@@ -57,6 +57,13 @@ sections:
         type: form_field
       - input_type: text
         name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
+      - input_type: text
+        name: lorem-ipsum
         label: Date of Birth
         default_value: lorem-ipsum
         options: []
@@ -140,13 +147,6 @@ sections:
       - input_type: text
         name: lorem-ipsum
         label: 'If so, what symptoms have changed and in what way?'
-        default_value: lorem-ipsum
-        options: []
-        is_required: false
-        type: form_field
-      - input_type: text
-        name: lorem-ipsum
-        label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
         is_required: false
