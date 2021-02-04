@@ -121,7 +121,7 @@ sections:
         is_required: false
         type: form_field
       - input_type: text
-        name: lorem-ipsum
+        name: First Line
         label: First Line of Address
         default_value: lorem-ipsum
         options: []
