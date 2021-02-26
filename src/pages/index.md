@@ -65,7 +65,6 @@ sections:
       - input_type: text
         name: Med
         label: List of Current Medications
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field
