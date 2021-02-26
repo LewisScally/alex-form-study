@@ -148,7 +148,7 @@ sections:
         type: form_field
       - input_type: text
         name: lorem-ipsum
-        label: County
+        label: County - drop down
         options: []
         is_required: false
         type: form_field
