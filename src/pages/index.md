@@ -103,7 +103,6 @@ sections:
         label: >-
           Please provide details of your current symptoms and the frequency
           experienced
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field
