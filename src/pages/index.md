@@ -78,6 +78,12 @@ sections:
         type: form_field
       - input_type: text
         name: lorem-ipsum
+        label: Town - drop down
+        options: []
+        is_required: false
+        type: form_field
+      - input_type: text
+        name: lorem-ipsum
         label: City - drop down
         options: []
         is_required: false
@@ -98,12 +104,6 @@ sections:
       - input_type: text
         name: Med
         label: List of Current Medications
-        options: []
-        is_required: false
-        type: form_field
-      - input_type: text
-        name: lorem-ipsum
-        label: Town - drop down
         options: []
         is_required: false
         type: form_field
