@@ -95,6 +95,12 @@ sections:
         is_required: false
         type: form_field
       - input_type: text
+        name: lorem-ipsum
+        label: Do you suffer chronic itching?
+        options: []
+        is_required: false
+        type: form_field
+      - input_type: text
         name: Allergies
         label: Allergies
         options: []
@@ -110,12 +116,6 @@ sections:
       - input_type: text
         name: Allergy
         label: 'Do you have an allergy to fungi, answer yes or no.'
-        options: []
-        is_required: false
-        type: form_field
-      - input_type: text
-        name: lorem-ipsum
-        label: Do you suffer chronic itching?
         options: []
         is_required: false
         type: form_field
