@@ -77,18 +77,18 @@ sections:
         is_required: false
         type: form_field
       - input_type: text
+        name: lorem-ipsum
+        label: City - drop down
+        options: []
+        is_required: false
+        type: form_field
+      - input_type: text
         name: Allergies
         label: Allergies
         options: []
         is_required: false
         type: form_field
         default_value: 'Separate via comma, '
-      - input_type: text
-        name: lorem-ipsum
-        label: City - drop down
-        options: []
-        is_required: false
-        type: form_field
       - input_type: text
         name: lorem-ipsum
         label: County - drop down
