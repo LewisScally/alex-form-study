@@ -57,7 +57,7 @@ sections:
         type: form_field
       - input_type: text
         name: Date of Birth DD/MM/YY
-        label: Date of Birth
+        label: "Date of Birth -\_ Add drop down dates"
         default_value: Date of Birth DD/MM/YY
         options: []
         is_required: false
