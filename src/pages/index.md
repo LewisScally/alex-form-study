@@ -86,7 +86,18 @@ sections:
       - input_type: text
         name: First Line
         label: First Line of Address
-        options: []
+        options:
+          - '0': l
+            '1': o
+            '2': r
+            '3': e
+            '4': m
+            '5': '-'
+            '6': i
+            '7': p
+            '8': s
+            '9': u
+            '10': m
         is_required: false
         type: form_field
       - input_type: text
