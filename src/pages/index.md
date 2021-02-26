@@ -154,7 +154,7 @@ sections:
         type: form_field
       - input_type: text
         name: lorem-ipsum
-        label: City
+        label: City - drop down
         options: []
         is_required: false
         type: form_field
