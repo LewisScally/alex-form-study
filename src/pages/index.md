@@ -120,7 +120,7 @@ sections:
         is_required: false
         type: form_field
       - input_type: text
-        name: lorem-ipsum
+        name: Symptoms and frequency
         label: >-
           Please provide details of your current symptoms and the frequency
           experienced
