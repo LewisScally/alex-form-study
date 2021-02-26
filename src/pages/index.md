@@ -90,6 +90,12 @@ sections:
         is_required: false
         type: form_field
       - input_type: text
+        name: lorem-ipsum
+        label: Town - drop down
+        options: []
+        is_required: false
+        type: form_field
+      - input_type: text
         name: Allergy
         label: 'Do you have an allergy to fungi, answer yes or no.'
         options: []
@@ -137,12 +143,6 @@ sections:
         name: lorem-ipsum
         label: Chronic infection
         default_value: lorem-ipsum
-        options: []
-        is_required: false
-        type: form_field
-      - input_type: text
-        name: lorem-ipsum
-        label: Town - drop down
         options: []
         is_required: false
         type: form_field
