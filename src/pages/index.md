@@ -84,12 +84,6 @@ sections:
         type: form_field
         default_value: 'Separate via comma, '
       - input_type: text
-        name: Med
-        label: List of Current Medications
-        options: []
-        is_required: false
-        type: form_field
-      - input_type: text
         name: lorem-ipsum
         label: City - drop down
         options: []
@@ -98,6 +92,12 @@ sections:
       - input_type: text
         name: lorem-ipsum
         label: County - drop down
+        options: []
+        is_required: false
+        type: form_field
+      - input_type: text
+        name: Med
+        label: List of Current Medications
         options: []
         is_required: false
         type: form_field
