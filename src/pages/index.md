@@ -56,17 +56,17 @@ sections:
         options: []
         is_required: false
         type: form_field
-      - input_type: email
-        name: Email
-        label: Email
-        options: []
-        is_required: false
-        type: form_field
       - input_type: text
         name: Gender
         label: >-
           Gender - Drop down for male, female, other genders, cats, would prefer
           not to say
+        options: []
+        is_required: false
+        type: form_field
+      - input_type: email
+        name: Email
+        label: Email
         options: []
         is_required: false
         type: form_field
