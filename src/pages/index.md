@@ -108,14 +108,14 @@ sections:
         type: form_field
         default_value: 'Separate via comma, '
       - input_type: text
-        name: Med
-        label: List of Current Medications
+        name: Allergy
+        label: 'Do you have an allergy to fungi, answer yes or no.'
         options: []
         is_required: false
         type: form_field
       - input_type: text
-        name: Allergy
-        label: 'Do you have an allergy to fungi, answer yes or no.'
+        name: Med
+        label: List of Current Medications
         options: []
         is_required: false
         type: form_field
