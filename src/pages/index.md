@@ -148,13 +148,13 @@ sections:
         type: form_field
       - input_type: text
         name: lorem-ipsum
-        label: County - drop down
+        label: City - drop down
         options: []
         is_required: false
         type: form_field
       - input_type: text
         name: lorem-ipsum
-        label: City - drop down
+        label: County - drop down
         options: []
         is_required: false
         type: form_field
