@@ -63,12 +63,6 @@ sections:
         is_required: false
         type: form_field
       - input_type: text
-        name: Med
-        label: List of Current Medications
-        options: []
-        is_required: false
-        type: form_field
-      - input_type: text
         name: Gender
         label: >-
           Gender - Drop down for male, female, other genders, cats, would prefer
@@ -86,6 +80,12 @@ sections:
       - input_type: text
         name: First Line
         label: First Line of Address
+        options: []
+        is_required: false
+        type: form_field
+      - input_type: text
+        name: Med
+        label: List of Current Medications
         options: []
         is_required: false
         type: form_field
