@@ -142,7 +142,7 @@ sections:
         type: form_field
       - input_type: text
         name: lorem-ipsum
-        label: Town
+        label: Town - drop down
         options: []
         is_required: false
         type: form_field
