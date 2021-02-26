@@ -83,7 +83,6 @@ sections:
       - input_type: text
         name: First Line
         label: First Line of Address
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field
